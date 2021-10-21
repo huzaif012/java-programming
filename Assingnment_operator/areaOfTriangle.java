@@ -11,7 +11,7 @@ public class areaOfTriangle {
         int breadth = obj.nextInt();
         System.out.println("Enter height:");
         int height = obj.nextInt();
-        double areaOfTriangle = 0.5 * breadth *height;
+        double areaOfTriangle = 0.5 * breadth * height;
         System.out.println("Area of Triangle:" + areaOfTriangle);
     }
 }
